@@ -9,5 +9,5 @@ PlayIt
 <br>
 ![image](01.jpg)
 <br>
-![image](02.jpg)
+
 
