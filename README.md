@@ -5,6 +5,6 @@
 <br>
 遊戲界面
 ![image](https://github.com/pptl/unityFirstGame/blob/master/01.jpg)
-![image](https://github.com/pptl/unityFirstGame/blob/master/02.jpg)
+
 
 
